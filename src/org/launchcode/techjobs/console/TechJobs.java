@@ -20,6 +20,7 @@ public class TechJobs {
         columnChoices.put("employer", "Employer");
         columnChoices.put("location", "Location");
         columnChoices.put("position type", "Position Type");
+        columnChoices.put("name", "Name");
         columnChoices.put("all", "All");
 
         // Top-level menu options
